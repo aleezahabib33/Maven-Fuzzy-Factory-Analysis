@@ -32,8 +32,15 @@ This project analyzes e-commerce business performance using Microsoft Excel, Pow
 - Interactive Excel dashboard development
 - Translating data into actionable business insights
 
-## Project File
-`Maven_Fuzzy_Factory_Analysis.xlsx`
+## Dashboard Preview
+
+The following screenshot provides a visual overview of the interactive Maven Fuzzy Factory Analysis dashboard developed in Microsoft Excel.
+
+![Maven Fuzzy Factory Analysis Dashboard](Dashboard.png)
+
+## Project Files
+- `Maven_Fuzzy_Factory_Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
+- `Dashboard.png` — Final dashboard screenshot.
 
 ## Author
 Aspiring Data Analyst
